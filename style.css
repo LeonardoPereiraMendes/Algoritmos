@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    background-color: #000000;
+    padding: 20px;
+    margin-top: 30px; /* Margem superior */
+    margin-left: 50px; /* Margem à esquerda */
+    margin-right: 50px; /* Margem à direita */
+    text-align: center; /* Centraliza o texto na barra superior */
+}
+
+.bottom-bar {
+    background-color: #000000;
+    padding: 20px;
+    margin-top: 30px; /* Margem superior */
+    margin-left: 50px; /* Margem à esquerda */
+    margin-right: 50px; /* Margem à direita */
+    margin-bottom: 30px; /* Margem inferior */
+    color: white;
+    text-align: left; /* Alinha o texto à esquerda na barra inferior */
+}
+h1{color: white;}
